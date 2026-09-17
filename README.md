@@ -4,7 +4,7 @@ A content-based recommendation system built to demonstrate how personalized
 "Because You Watched…" style rows work on streaming platforms — plus a few
 features real streaming apps typically *don't* expose to users.
 
-**[Live interactive demo →](https://claude.ai/artifact/KmZzJQvRTWVxyn4YoceRy5)**
+**[Live interactive demo →](https://sowji5.github.io/Content-Based-Recommendation-Engine/)**
 
 ## What it does
 
